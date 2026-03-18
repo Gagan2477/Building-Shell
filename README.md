@@ -50,7 +50,7 @@ Readline - Filesystem & directory APIs - STL
 
 GETTING STARTED
 
-1.  Clone the repo git clone https://github.com/Lambo-IITian/Shell.git
+1.  Clone the repo git clone https://github.com/Gagan2477/Building-Shell
     cd Shell
 
 2.  Compile g++ main.cpp -lreadline -o buildshell
